@@ -1,0 +1,6 @@
+msgid "about"
+msgstr "ABOUT Scratch"
+look to type %s and wait
+days since half last 1999
+go to back 
+stop
